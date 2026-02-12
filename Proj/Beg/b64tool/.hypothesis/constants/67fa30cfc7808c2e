@@ -1,0 +1,4 @@
+# file: /Users/aayushpandey/Documents/GitHub/CybersecurityProjects/Proj/Beg/b64tool/src/b64tool/constants.py
+# hypothesis_version: 6.151.6
+
+[0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.6, 0.8, ' :.-', 'base32', 'base64', 'base64url', 'hex', 'url']

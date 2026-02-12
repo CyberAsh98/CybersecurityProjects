@@ -1,0 +1,4 @@
+# file: /Users/aayushpandey/Documents/GitHub/CybersecurityProjects/Proj/Beg/b64tool/src/b64tool/formatter.py
+# hypothesis_version: 6.151.6
+
+[0.7, 0.9, '-', 'Confidence', 'Decoded Preview', 'Encoding Chain', 'Encoding Detection', 'Format', 'Output Preview', 'Score', 'Score Breakdown', 'Step', 'cyan', 'green', 'magenta', 'red', 'replace', 'utf-8', 'white', 'yellow']
